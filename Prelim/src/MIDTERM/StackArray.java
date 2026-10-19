@@ -46,4 +46,8 @@ public class StackArray {
         stack.display();
         
     }
+
+    private void display() {
+        throw new UnsupportedOperationException("Not supported yet."); // Generated from nbfs://nbhost/SystemFileSystem/Templates/Classes/Code/GeneratedMethodBody
+    }
 }
