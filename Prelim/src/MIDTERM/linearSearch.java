@@ -29,6 +29,7 @@ public class linearSearch {
           }else {
            
            System.out.println("Element not Found");
+           
            }
         }
     }
